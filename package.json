@@ -1,0 +1,20 @@
+{
+  "title": "ASK Button Addon",
+  "name": "faddon",
+  "version": "1.0.0",
+  "description": "Buttons for American School of Kuwait",
+  "main": "index.js",
+  "author": "Brian Thomas",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "American",
+    "School",
+    "Kuwait",
+    "Detention",
+    "TeacherPlus"
+  ]
+}
