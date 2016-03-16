@@ -12,6 +12,7 @@ exports.dummy = dummy;
 var buttons = require('sdk/ui/button/action');
 var tabs = require('sdk/tabs');
 
+
 var button = buttons.ActionButton({
     id: "mozilla-link",
     label: "Thunderkatz",

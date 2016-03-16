@@ -1,2 +1,2 @@
-#My Jetpack Addon
-A basic add-on
+# My Button Addon
+A basic add-on, pretty much like bookmarks
