@@ -53,3 +53,16 @@ var button_detention = buttons.ActionButton({
 function handleClickDetention(state) {
     tabs.open("https://docs.google.com/a/ask.edu.kw/forms/d/1B-BKZetR5UfAqLJs7vsGr9uu-7CEnMikqYtmzZU_V_Y/viewform");
 }
+
+var button_moodle = buttons.ActionButton({
+    id: "moodle",
+    label: "Moodle",
+    icon: {
+        "16": "./moodle-icon.png"
+    },
+    onClick: handleClickMoodle
+});
+
+function handleClickMoodle(state) {
+    tabs.open("https://www.stu.ask.edu.kw/");
+}
